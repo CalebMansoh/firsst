@@ -1,0 +1,65 @@
+.div-button1{
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.span1{
+  text-decoration: underline;
+  color: rgb(121, 5, 209);
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.span2{
+  text-decoration: underline;
+  color: rgb(121, 5, 209);
+  margin-right: 10px
+}
+
+.span3{
+  text-decoration: underline;
+  color: rgb(121, 5, 209);
+  margin-right: 10px;
+}
+
+.span4{
+  text-decoration: underline;
+  color: rgb(121, 5, 209);
+  margin-right: 10px;
+}
+
+.span5{
+  text-decoration: underline;
+  color: rgb(121, 5, 209);
+  margin-right: 10px;
+}
+
+
+/* excercise 2 styles */
+
+.button1{
+  border: none;
+  background-color: rgb(41, 162, 41);
+  color: white;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  cursor: pointer;
+  transition: 1s;
+}
+
+.button1:hover{
+  padding: 25px;
+}
+
+.button2{
+  border: none;
+  background-color: rgb(41, 162, 41);
+  color: white;
+  padding-top: 5px;
+  padding-bottom: 5px
+}
+
+.button2:hover{
+  box-shadow: 1px 1px 8px rgb(10, 10, 10);
+  cursor: pointer;
+}
